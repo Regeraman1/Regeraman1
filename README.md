@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Regeraman1
-- 👀 I’m interested in ... gaming
-- 🌱 I’m currently learning ... C++, and Java
-- 💞️ I’m looking to collaborate on ... game hacking and other interesting things
-- 📫 How to reach me ... idk just yet
-- 😄 Pronouns: ... stupidity/ stupidest
-- ⚡ Fun fact: ... do better in life
+- 👋 Hi, I’m Zaid Siam
+- 👀 I’m interested in gaming, reading, coding, and many other things
+- 🌱 I’m currently learning C++, React, Python and Node.js
+- 💞️ I’m looking to collaborate on game developing, artificial intelligence and other interesting things
+- 📫 How to reach me: zsiam530@gmail.com
 
 <!---
 Regeraman1/Regeraman1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
